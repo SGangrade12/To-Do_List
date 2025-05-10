@@ -1,0 +1,29 @@
+.inbox{
+    text-align: center;
+}
+
+input{
+    border-color: rgb(114, 114, 233);
+    border-radius: 5px;
+    height: 2rem;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.b{
+    display: flexbox;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 10px;
+}
+
+button{
+    background-color: rgb(182, 245, 245);
+    border-radius: 15px;
+    height: 2rem;
+}
+
+h1{
+    text-align: center;
+}
