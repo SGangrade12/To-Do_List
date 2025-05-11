@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(114, 110, 110);
+}
+
 .inbox{
     text-align: center;
 }
@@ -8,6 +12,7 @@ input{
     height: 2rem;
     font-size: 1.3rem;
     text-align: center;
+    background-color: rgb(180, 174, 174);
 }
 
 .b{
