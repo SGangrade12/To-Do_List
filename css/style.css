@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(114, 110, 110);
+    background-color: #453F3C;
 }
 
 .inbox{
@@ -10,12 +10,12 @@ body{
 }
 
 input{
-    border-color: rgb(114, 114, 233);
+    border-color: #453F3C;
     border-radius: 5px;
     height: 2rem;
     font-size: 1.3rem;
     text-align: center;
-    background-color: rgb(180, 174, 174);
+    background-color: #797270;
 }
 
 .b{
@@ -27,7 +27,7 @@ input{
 }
 
 button{
-    background-color: rgb(182, 245, 245);
+    background-color: #B0C0BC;
     border-radius: 15px;
     height: 2rem;
 }
