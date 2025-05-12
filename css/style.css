@@ -4,6 +4,9 @@ body{
 
 .inbox{
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 input{
@@ -31,4 +34,11 @@ button{
 
 h1{
     text-align: center;
+}
+
+#reload{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
 }
